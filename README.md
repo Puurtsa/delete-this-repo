@@ -4,7 +4,10 @@ ohjelmistosuunnittelu ja -testaus
 
 GGeasy
 ## 
-yeeboiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+|Koirarotu|KPL|
+|:---------|--:|
+|Suomenpystykorva |30 |
+|Saksanpaimenkoira|50 |
 ### Alaotsikko
 dafagg
 #### Alaotsikko
