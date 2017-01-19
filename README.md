@@ -10,4 +10,4 @@ dafagg
 #### Alaotsikko
 lolz rekt
 
-[Vladimir Putin - Wikipedia](http://wikipedia.org/Vladimirputin/)
+[Vladimir Putin - Wikipedia](http://wikipedia.org/wiki/Vladimirputin/)
